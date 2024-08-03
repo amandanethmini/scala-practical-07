@@ -15,6 +15,6 @@ object prime {
 
     val primeNumbers = filterPrime(inputList)
 
-    println("Even numbers: " + primeNumbers.mkString(", "))
+    println("Prime numbers: " + primeNumbers.mkString(", "))
   }
 }
